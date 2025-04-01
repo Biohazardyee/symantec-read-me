@@ -66,7 +66,7 @@ This software is provided **"as-is"**, without any express or implied warranty. 
 
 ## Additional Information
 
-For further details, refer to the **Third-Party Legal Notice Appendix** or visit Symantec's official documentation.
+For further details, visit Symantec's official documentation.
 
 ---
 
