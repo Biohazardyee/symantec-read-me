@@ -4,9 +4,20 @@
   <img src="https://media.licdn.com/dms/image/v2/C4D0BAQGpmHLo8p8Jmw/company-logo_200_200/company-logo_200_200/0/1630551947932/messagelabs_logo?e=2147483647&v=beta&t=UPtFK7rEcN_mxIpddih7PJRKqFqYoR1af6f6x4NqOI0" alt="Symantec Logo">
 </p>
 
+</p>
+<p align="center">
+  <a href="#copyright-and-trademark-information">Copyright And Trademark</a> •
+  <a href="#-third-party-software-licensing">Third-Party Licensing</a> •
+  <a href="#-included-third-party-components">Third-Party Components</a> •
+  <a href="#-boost-v1331">Boost</a> •
+  <a href="#-tinyxml-v240">TinyXML</a> •
+  <a href="#-additional-information">Additional Information</a>
+</p>
+
+
 ---
 
-## 🛡️ **Copyright & Trademark Information**
+## **Copyright And Trademark Information**
 🔹 **Copyright © 2006 Symantec Corporation.** All rights reserved.  
 
 - **Symantec** and the **Symantec Logo** are trademarks or registered trademarks of Symantec Corporation in the U.S. and other countries.  
